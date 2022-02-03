@@ -1,9 +1,5 @@
----
-title: "My Document"
-bibliography: references.bib
-link-citations: true
----
-
+# Gaussian-Processes-for-Machine-Learning
+## Gaussian Processes for Regression
 
 
 
