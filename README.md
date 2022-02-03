@@ -1,4 +1,9 @@
-# Gaussian-Processes-for-Machine-Learning
-## Gaussian Processes for Regression
+---
+title: "My Document"
+bibliography: references.bib
+link-citations: true
+---
+
+
 
 
