@@ -1,2 +1,5 @@
 # Gaussian-Processes-for-Machine-Learning
-Seminar on Gaussian Processes for Machine Learning at TUM
+## Topic: Gaussian Processes for Regression
+
+
+{% bibliography --cited --file Gaussian-Processes-for-Machine-Learning/bibliography.bib  %}
