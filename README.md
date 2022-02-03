@@ -2,4 +2,4 @@
 ## Topic: Gaussian Processes for Regression
 
 
-{% bibliography --cited --file Gaussian_Processes_for_Machine_Learning/bibliography.bib  %}
+{bibliography --cited --file Gaussian_Processes_for_Machine_Learning/bibliography.bib}
