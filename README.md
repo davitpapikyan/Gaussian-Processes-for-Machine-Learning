@@ -17,7 +17,12 @@ This repository includes my slides, paper and jupyter notebook from my presentat
 
 ---
 
-https://img.shields.io/badge/educational-TUM-green
+
+
+
+---
+
+### The content of this repository can be used for educational purposes. 
 
 
 
