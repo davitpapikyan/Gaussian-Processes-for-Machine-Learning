@@ -1,5 +1,4 @@
 <a href="https://github.com/davitpapikyan/Gaussian-Processes-for-Machine-Learning/blob/main/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/davitpapikyan/Gaussian-Processes-for-Machine-Learning"></a> 
-
 <a href="https://github.com/davitpapikyan/Gaussian-Processes-for-Machine-Learning/blob/main/LICENSE"><img alt="educational" src="https://img.shields.io/badge/educational-TUM-green"></a> 
 
 
