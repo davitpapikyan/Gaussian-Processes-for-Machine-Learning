@@ -1,4 +1,4 @@
-# Advanced Seminar Course: Gaussian Processes for Machine Learning (3 ECTS Credits | 10.02.2022)
+# Advanced Seminar Course: Gaussian Processes for Machine Learning
 
 ## Gaussian Processes for Regression
 This repository includes my slides, paper and jupyter notebook from my presentation on "Gaussian Processes for Regression".
