@@ -1,4 +1,5 @@
 # Gaussian Processes for Machine Learning
+[MAHS21W08] Advanced Seminar Course: Gaussian Processes for Machine Learning (3 ECTS Credits | 10.02.2022)
 
 ## Gaussian Processes for Regression
 
