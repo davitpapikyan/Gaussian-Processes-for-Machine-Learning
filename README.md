@@ -1,6 +1,9 @@
 # Gaussian Processes for Machine Learning
 ## Gaussian Processes for Regression
 
+---
+
+This repository includes my paper, jupyter notebook and slides from my seminar presentation on Gaussian Processes for Regression. 
 
 
 TODO:
