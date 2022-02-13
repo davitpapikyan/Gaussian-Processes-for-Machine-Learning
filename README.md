@@ -1,4 +1,7 @@
-# [MAHS21W08] Advanced Seminar Course: Gaussian Processes for Machine Learning (3 ECTS Credits | 10.02.2022)
+# Advanced Seminar Course: Gaussian Processes for Machine Learning (3 ECTS Credits | 10.02.2022)
+Course code: MAHS21W08
+Credits: 3 ECTS
+Presentation date: 03.02.2022
 
 ## Gaussian Processes for Regression
 
