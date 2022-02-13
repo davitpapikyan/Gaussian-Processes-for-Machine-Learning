@@ -1,9 +1,10 @@
 # Advanced Seminar Course: Gaussian Processes for Machine Learning (3 ECTS Credits | 10.02.2022)
+
+## Gaussian Processes for Regression
+This repository includes my slides, paper and jupyter notebook from my presentation on "Gaussian Processes for Regression".
 - Course code: MAHS21W08
 - Credits: 3 ECTS
 - Presentation date: 03.02.2022
-
-## Gaussian Processes for Regression
 
 
 
