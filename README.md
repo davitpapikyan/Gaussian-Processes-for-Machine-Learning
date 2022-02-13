@@ -1,7 +1,7 @@
 # Advanced Seminar Course: Gaussian Processes for Machine Learning
 
 ## Gaussian Processes for Regression
-This repository includes my slides, paper and jupyter notebook from my presentation on "Gaussian Processes for Regression".
+This repository includes my slides, paper and jupyter notebook from my presentation on "Gaussian Processes for Regression" at Technical University of Munich within the scope of seminar on "Gaussian Processes for Machine Learning".
 - Course code: MAHS21W08
 - Credits: 3 ECTS
 - Presentation date: 03.02.2022
