@@ -1,4 +1,4 @@
-https://img.shields.io/github/license/davitpapikyan/Gaussian-Processes-for-Machine-Learning
+[![GitHub license](https://img.shields.io/github/license/davitpapikyan/Gaussian-Processes-for-Machine-Learning)](https://github.com/davitpapikyan/Gaussian-Processes-for-Machine-Learning/blob/main/LICENSE)
 
 # Advanced Seminar Course: Gaussian Processes for Machine Learning
 
