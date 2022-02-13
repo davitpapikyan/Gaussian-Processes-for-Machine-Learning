@@ -1,3 +1,5 @@
+https://img.shields.io/github/license/davitpapikyan/Gaussian-Processes-for-Machine-Learning
+
 # Advanced Seminar Course: Gaussian Processes for Machine Learning
 
 ## Gaussian Processes for Regression
