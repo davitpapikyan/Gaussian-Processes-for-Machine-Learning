@@ -17,6 +17,7 @@ This repository includes my slides, paper and jupyter notebook from my presentat
 
 ---
 
+## An example of Bayesian Linear Regression with *sin* transformation of data
 ![asdasdasd](images/Bayesian_LR_sin_example.png?raw=true)
 
 
