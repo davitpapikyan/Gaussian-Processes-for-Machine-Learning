@@ -17,7 +17,7 @@ This repository includes my slides, paper and jupyter notebook from my presentat
 
 ---
 
-![](images/Bayesian_LR_sin_example.png?raw=true)
+![asdasdasd](images/Bayesian_LR_sin_example.png?raw=true)
 
 
 ---
